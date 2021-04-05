@@ -99,13 +99,11 @@ database = DataBase()
 # llamo al metodo select person del objeto de la clase DataBase
 #database.select_person(5)
 #database.update_person(5,'JAIROTE')
-database.select_all_person()
+#database.select_all_person()
 #database.select_person(5)
-
 #database.add_person('Florelbita','Ramirez','Calle 117a','florelba-rc@hotmail.com')
-database.delete_person(7)
-database.delete_person(8)
-
+#database.delete_person(7)
+#database.delete_person(8)
 database.select_all_person()
 
 
